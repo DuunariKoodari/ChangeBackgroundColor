@@ -11,4 +11,3 @@ function changeBackgroundColor() {
   body.style.backgroundColor = colors[colorIndex];
   console.log(colorIndex);
 }
-console.log(Math.floor(Math.random() * colors.length));
